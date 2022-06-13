@@ -1,0 +1,358 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: rgb(184, 73, 93);
+  font-family: 'Lobster', 'cursive';
+  background-color: rgb(239, 167, 167);
+  align-items: center;
+}
+.container {
+  margin: 0%;
+  padding: 0%;
+  width:100%;
+  text-align: center;
+  background: rgb(239, 167, 167);
+}
+.header {
+  
+  width: 100%;
+  background-color: rgb(240, 196, 196);
+
+}
+.mainnav {
+  width: 100%;
+  border: #ffffff;
+}
+.mainnav li {
+  background-color: rgb(240, 196, 196);
+
+
+}
+.mainnav li {
+  display: inline;
+  padding: 0 0;
+  margin-left: 3%;
+  border: solid rgb(240, 196, 196);
+  border-radius: 1px 5px 2em / 28px 25px 30%;
+
+}
+.mainnav li a {
+  display: inline;
+  text-decoration: none;
+  color: rgb(184, 73, 93);
+  font-size: 30px;border: 
+  solid rgb(240, 196, 196);
+  
+  
+}
+.mainnav h3 {
+  margin-top: 2%;  
+  position: absolute;
+  right: 38%;
+  font-size: 35px;
+  padding: 3%;
+  border: solid rgb(240, 196, 196);
+  border-radius: 100px 5px 2em / 28px 25px 30%;
+  background-color: rgb(240, 196, 196);
+
+}
+.contents {
+  width: 80%;
+  margin: 0 0 0 8%;
+  margin-top: 9%;
+}
+.contents h2{
+  width: 50%;
+  margin: 2%;
+  padding: 2%;
+  margin-left: 5%;
+  margin-bottom: 1%;
+  border: solid rgb(240, 196, 196);
+  border-radius: 100px 5px 2em / 28px 25px 30%;
+  background-color: rgb(240, 196, 196);
+
+}
+.contents p{
+  padding: 2%;
+  margin: 2%;
+  border: solid rgb(240, 196, 196);
+  border-radius: 1px 500px 5em / 28px 25px 30%;
+  background-color: rgb(240, 196, 196);
+
+}
+
+.contents h3{
+  width: 50%;
+  margin: 2%;
+  padding: 2%;
+  margin-left: 5%;
+  margin-bottom: 1%;
+  border: solid rgb(240, 196, 196);
+  border-radius: 100px 5px 2em / 28px 25px 30%;
+  background-color: rgb(240, 196, 196);
+
+ 
+
+}
+.contents h3{
+font-size: 30px
+
+}
+.contents ul li{
+  margin: 2%;
+  padding: auto;
+  background-color: rgb(240, 196, 196);
+
+  }
+
+.contents p {
+  width: 50%;
+  font-size: 100%;
+  text-align: justify;
+  margin-left: 5%;
+}
+.contents ul{
+  width: 50%;
+  font-size: 100%;
+  text-align: justify;
+  margin-left: 5%
+}
+.footer {
+  color: rgb(184, 73, 93);
+  text-align: center;
+  font-size: 15px;
+  width:15%;
+  background-color: rgb(240, 196, 196);
+  padding: 8px;
+  margin-left: 80%;
+  margin-top: 30%;
+  margin-bottom: 5%;
+  
+}
+.carrossel {
+  display: inline-block;
+  margin-top: 5%;
+  padding: 2%;
+  border-radius: 1em;
+  background-color: rgb(240, 196, 196);
+
+}
+.logo {
+  align-items: center;
+  padding: 1%;
+  width: 35%;
+  height: 1%;
+  
+}
+.menul {
+  float: right;
+  width: 40%;
+  padding: 0%;
+  margin-top: 6%;  
+  margin-right: 5%;
+}
+.grupo {
+  font-size: 25px;
+  width: 50%;
+  margin-top: 50px;
+  margin-left: 369px;
+  padding: 50px;
+  background-color: rgb(240, 196, 196);
+}
+.maior {
+  font-size: 14px;
+  width: 280px;
+  resize: none;
+}
+.grupo input,
+select,
+textarea {
+  background-color: rgb(240, 196, 196);
+  
+}
+.grupo input:hover,
+input:focus,
+select:hover,
+select:focus,
+textarea:hover,
+
+
+textarea:focus {
+  
+  border-color: black;
+  background-color: rgb(245, 219, 219);
+  color: black;
+  font-weight: bold;
+  
+  
+}
+
+.galeriaimagem{
+  margin-top: 7%;
+  padding:8%;
+  
+}
+
+figure.imagem {
+  display: inline-block;
+  background-color: rgb(240, 196, 196);
+  text-align: center;
+  align-items: center;
+  width: 17%;
+
+  
+
+}
+figure.imagem img{
+  width: 100%;
+  background-color: rgb(240, 196, 196);
+  
+}
+figcaption,
+a {
+  font-size: 25px;
+  text-decoration: none;
+  color: rgb(184, 73, 93)
+}
+figure.imagem:hover {
+  background: #c0c0c0;
+
+}
+.mapa {
+  margin: 0;
+  padding: 0%;
+  width:30%;
+  position: absolute;
+  right: 15%;
+  bottom: 12%;
+  border: solid rgb(240, 196, 196);
+  border-radius: 0px 1000px 5em / 230px 250px 10px;
+  
+  
+}
+.contents table {
+  margin: 0;
+padding: 0%;
+width:30%;
+position: absolute;
+left: 18%;
+bottom: 27%;
+border-radius: 50%;
+border: solid rgb(240, 196, 196);
+border-radius: 1px 5px 2em / 28px 25px 30%;
+background-color: rgb(240, 196, 196);
+
+
+}
+.contents table h3{
+
+ margin: 0%;
+ padding: 0%;
+ border: solid rgb(240, 196, 196);
+ margin-bottom: 1%;
+ 
+}
+
+.contents li {
+  font-size: 90%;
+  text-align: justify;
+}
+
+
+.login {
+  margin-left: 75%;
+  
+  
+}
+.restrito {
+  width: 30%;
+  margin-left: 35%;
+  margin-top: 10%;
+  
+}
+.checkbox {
+  color: white;
+}
+.whatsapp{
+  margin: 0;
+  padding: 0%;
+  width:30%;
+  position: absolute;
+  left: 18%;
+  bottom: 22%;
+  
+
+}
+.zap{
+  margin: 0;
+  padding: 0%;
+  width:9%;
+  position: absolute;
+  left: -1%;
+  top: 20px;
+  
+  }
+    .textowhatsapp{
+      margin: 0;
+      padding: 0%;
+      position: absolute;
+      right: 74%;
+      bottom: 14%;
+      text-align: left;
+
+    }
+    .textowhatsapp ul{
+      position: absolute;
+      right: 40%;
+      bottom: 90%;
+      display: inline;
+      padding: 0 0;
+      margin-left: 3%;
+      border: solid rgb(240, 196, 196);
+      border-radius: 1px 5px 2em / 28px 25px 30%;
+      background-color: rgb(240, 196, 196);
+
+    }
+    .instagram{
+      margin: 0;
+      padding: 0%;
+      width:30%;
+      position: absolute;
+      left: 18%;
+      bottom: 25%;
+    }
+    .insta{
+      margin: 0;
+      padding: 0%;
+      width:9%;
+      position: absolute;
+      left: 0%;
+      top: 100px;
+      
+      }
+      .textoinstagram{
+        margin: 0;
+        padding: 0%;
+        position: absolute;
+        right: 69%;
+        bottom: 8%;
+        
+        
+
+      }
+      .textoinstagram ul{
+        position: absolute;
+        right: 50%;
+        bottom: 90%;
+        display: inline;
+        padding: 0 0;
+        margin-left: 3%;
+        border: solid rgb(240, 196, 196);
+        border-radius: 1px 5px 2em / 28px 25px 30%;
+        background-color: rgb(240, 196, 196);
+
+      }
+  
